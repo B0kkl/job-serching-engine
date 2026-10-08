@@ -22,7 +22,7 @@ A Python web scraping project that collects job listing information and converts
 
 ## Project URL
 
-https://realpython.github.io/fake-jobs/
+https://roadmap.sh/projects/job-listings-scraper
 
 ## Repository
 
